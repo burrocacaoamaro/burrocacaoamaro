@@ -24,4 +24,4 @@ Repositories are private (client and personal data). Source available on request
 
 ## Contact
 
-cristofmanzini@gmail.com (LinkedIn link coming soon)
+Portfolio: https://cristofmanzini.cristofmanzini.workers.dev · cristofmanzini@gmail.com (LinkedIn link coming soon)
